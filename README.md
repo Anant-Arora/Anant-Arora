@@ -17,9 +17,7 @@ Currently, I am working on **backend development, finance-related projects, and 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">![Github Profile 2](https://github.com/user-attachments/assets/a439666f-a77f-4a60-8eeb-276bd588c002)
-![Github Profile 2](https://github.com/user-attachments/assets/08aec5ed-b8a6-4d2a-bebb-b8b06cf52864)
-
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -31,7 +29,6 @@ Currently, I am working on **backend development, finance-related projects, and 
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white">
 </p>
-![Github Profile 2](https://github.com/user-attachments/assets/7cdc36af-3bb2-4943-a0a0-744b1897f745)
 
 ---
 
