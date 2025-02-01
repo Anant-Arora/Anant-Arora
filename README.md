@@ -21,7 +21,6 @@ Currently, I am working on **backend development, finance-related projects, and 
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-#11557C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge![profile 1](https://github.com/user-attachments/assets/5f51b486-ffdd-44fa-b7af-822aaa88832c)
 &logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
