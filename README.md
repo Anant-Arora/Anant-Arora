@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there, I'm Anant Arora 👋</h1>
 <p align="center">
-  ![Github Profile 2](https://github.com/user-attachments/assets/c1402eb6-d43a-4b58-b63b-f8d73dc77631)
+  (https://github.com/user-attachments/assets/c1402eb6-d43a-4b58-b63b-f8d73dc77631)
 </p>
 
 ---
