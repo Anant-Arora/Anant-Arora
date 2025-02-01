@@ -1,8 +1,5 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there, I'm Anant Arora 👋</h1>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6ce12287-3d09-4bb4-85cd-ab04fec9436b" alt="Anant Arora" width="200" height="200">
-</p>
 
 ---
 
