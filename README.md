@@ -1,8 +1,9 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there, I'm Anant Arora 👋</h1>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c1402eb6-d43a-4b58-b63b-f8d73dc77631" alt="Anant Arora" width="200" height="200">
+  <img src="https://github.com/user-attachments/assets/6ce12287-3d09-4bb4-85cd-ab04fec9436b" alt="Anant Arora" width="200" height="200">
 </p>
+
 ---
 
 ## 👨‍💻 About Me  
@@ -23,7 +24,8 @@ Currently, I am working on **backend development, finance-related projects, and 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Matplotlib-#11557C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge![profile 1](https://github.com/user-attachments/assets/5f51b486-ffdd-44fa-b7af-822aaa88832c)
+&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
