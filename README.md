@@ -30,7 +30,7 @@ Currently, I am working on **backend development, finance-related projects, and 
 ## 🔥 GitHub Streak  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHubUsername]&theme=radical&hide_border=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anant-Arora&theme=radical&hide_border=true">
 </p>
 
 ---
