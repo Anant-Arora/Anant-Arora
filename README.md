@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Anant Arora 👋</h1>
 <p align="center">
   <img src="https://github.com/[YourGitHubUsername]/[YourGitHubUsername]/blob/main/profile-banner.png" alt="Banner Image">
 </p>
@@ -12,8 +12,6 @@ I specialize in **Algorithmic Trading, Machine Learning, Data Visualization, and
 Currently, I am working on **backend development, finance-related projects, and high-frequency trading (HFT) strategies**.  
 
 ---
-
-## 🚀 Tech Stack  
 
 ## 🚀 Tech Stack  
 
