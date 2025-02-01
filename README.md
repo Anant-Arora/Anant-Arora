@@ -4,10 +4,11 @@
 ---
 
 ## 👨‍💻 About Me  
-I am a **Data Science & Backend Developer** with experience in **Python, C, C++, JavaScript, and SQL**.  
-I specialize in **Algorithmic Trading, Machine Learning, Data Visualization, and Backend Development**.  
-Currently, I am working on **backend development, finance-related projects, and high-frequency trading (HFT) strategies**.  
-
+🚀 **Tech Enthusiast | Data Scientist | Aspiring HFT Developer**  
+🎯 Passionate about **AI/ML, Algorithmic Trading, and Software Development**  
+📊 Building dashboards, stock prediction models, and financial analytics tools.  
+💡 I am constantly learning and exploring new technologies to solve real-world problems, especially in the field of finance and data science.  
+🎓 Currently pursuing a BTech in Data Science, I aim to make a significant impact through innovative solutions in the tech and finance industries.  
 ---
 
 ## 🚀 Tech Stack  
@@ -51,9 +52,8 @@ Currently, I am working on **backend development, finance-related projects, and 
 ## 📫 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/[YourLinkedInUsername]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/[YourGitHubUsername]"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://internshala.com/interns/[YourInternshalaProfile]"><img src="https://img.shields.io/badge/Internshala-004385?style=for-the-badge&logo=internshala&logoColor=white"></a>
+  <a href="linkedin.com/in/anant-arora-8133b7266"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Anant-Arora"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
