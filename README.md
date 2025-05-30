@@ -1,14 +1,14 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there, I'm Anant Arora 👋</h1>
+<h1 align="center">Hi there, I'm Anant Arora </h1>
 
 ---
 
 ## 👨‍💻 About Me  
-🚀 **Tech Enthusiast | Data Scientist | Aspiring HFT Developer**  
-🎯 Passionate about **AI/ML, Algorithmic Trading, and Software Development**  
-📊 Building dashboards, stock prediction models, and financial analytics tools.  
-💡 I am constantly learning and exploring new technologies to solve real-world problems, especially in the field of finance and data science.  
-🎓 Currently pursuing a BTech in Data Science, I aim to make a significant impact through innovative solutions in the tech and finance industries.  
+ **Tech Enthusiast | Data Scientist | Aspiring HFT Developer**  
+ Passionate about **AI/ML, Algorithmic Trading, and Software Development**  
+ Building dashboards, stock prediction models, and financial analytics tools.  
+ I am constantly learning and exploring new technologies to solve real-world problems, especially in the field of finance and data science.  
+ Currently pursuing a BTech in Data Science, I aim to make a significant impact through innovative solutions in the tech and finance industries.  
 ---
 
 ## 🚀 Tech Stack  
