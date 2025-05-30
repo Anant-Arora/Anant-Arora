@@ -8,7 +8,7 @@
  Passionate about **AI/ML, Algorithmic Trading, and Software Development**  
  Building dashboards, stock prediction pipelines, and financial analytics tools.  
  I am constantly learning and exploring new technologies to solve real-world problems, especially in the field of finance and data science.  
- Currently pursuing a BTech in Data Science, I aim to make a significant impact through innovative solutions in the tech and finance industries.  
+ Currently pursuing a BTech in Data Science. 
 ---
 
 ## 🚀 Tech Stack  
