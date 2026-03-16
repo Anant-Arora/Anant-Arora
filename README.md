@@ -61,9 +61,8 @@ Skilled in working with Python, SQL, PostgreSQL, and cloud-based tools to transf
 **CallGuard Sentinel – Real-Time Fraud Detection System**
 
 Winner project of **CyberCup 2025**, focused on detecting scam and fraudulent phone calls in real time using machine learning and audio signal analysis. The system processes live call audio in small chunks, converts speech to text using Whisper, extracts linguistic and acoustic features, and applies a trained ML model to detect potential scams instantly. A React-based frontend provides real-time alerts and explanations while the Python backend performs fraud analysis using TF-IDF vectorization, logistic regression, and multiple audio features.
-
-🔗 Project Repository: https://github.com/Arshil-Github/Sentinel_25  
-🎥 Demo Video: https://youtu.be/YU1fMJLZbEQ
+Project Repository: https://github.com/Arshil-Github/Sentinel_25  
+Demo Video: https://youtu.be/YU1fMJLZbEQ
 ---
 
 ## 📫 Connect With Me  
