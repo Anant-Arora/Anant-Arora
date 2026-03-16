@@ -4,11 +4,10 @@
 ---
 
 ## 👨‍💻 About Me  
- **Tech Enthusiast | Data Engineer | Aspiring HFT Developer**  
- Passionate about **AI/ML, Algorithmic Trading, and Software Development**  
- Building dashboards, stock prediction pipelines, and financial analytics tools.  
- I am constantly learning and exploring new technologies to solve real-world problems, especially in the field of finance and data science.  
- Currently pursuing a BTech in Data Science. 
+ **Tech Enthusiast | Data Engineer | Data Analyst**  
+Computer Science student specializing in Data Science with strong interests in data engineering, machine learning, and data analytics. 
+Experienced in building data pipelines, analytics dashboards, and end-to-end data platforms involving data ingestion, validation, feature engineering, and predictive modeling. 
+Skilled in working with Python, SQL, PostgreSQL, and cloud-based tools to transform raw data into meaningful insights. Passionate about applying data-driven techniques to solve real-world problems and continuously expanding knowledge in scalable data systems and intelligent analytics solutions. 
 ---
 
 ## 🚀 Tech Stack  
