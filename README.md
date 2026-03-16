@@ -28,6 +28,16 @@ Skilled in working with Python, SQL, PostgreSQL, and cloud-based tools to transf
 
 ---
 
+## 💼 Experience
+
+**Eugia Pharmaceutical Limited — Internship**
+
+- Developed an end-to-end **OCR pipeline** to extract handwritten and typed pharmaceutical table data from scanned images and convert it into structured records.
+- Implemented **image preprocessing and OCR models (EasyOCR, PaddleOCR, Tesseract)** to detect table cells and recognize text with up to **95% accuracy on typed data**.
+- Built a **Streamlit interface and integrated the pipeline with Microsoft SQL Server** to automatically validate and store extracted records.
+
+---
+
 ## 🔥 GitHub Streak  
 
 <p align="center">
@@ -36,15 +46,14 @@ Skilled in working with Python, SQL, PostgreSQL, and cloud-based tools to transf
 
 ---
 
-## 📂 My Projects  
+## 📂 My Projects
 
 | Project Name | Description | Tech Stack |
-|-------------|------------|------------|
-| [Stock Market Sentiment Analysis](https://github.com/[YourGitHubUsername]/stock-market-sentiment) | Analyzes real-time market sentiment using news and social media | Python, NLP, React, Express |
-| [Algorithmic Trading Backtester](https://github.com/[YourGitHubUsername]/algo-trading-backtester) | Backtest trading strategies using historical stock data | Python, Pandas, Backtrader |
-| [EKLAVYA](https://github.com/[YourGitHubUsername]/eklavya) | A mentorship platform connecting students & teachers | Express.js, Firebase, AI |
-| [HR Management Dashboard](https://github.com/[YourGitHubUsername]/hr-dashboard) | A dashboard for HR analytics and workforce planning | Power BI, SQL, Python |
-| [Crypto Dashboard](https://github.com/[YourGitHubUsername]/crypto-dashboard) | Tracks and visualizes cryptocurrency trends | React, API, Power BI |
+|--------------|-------------|------------|
+| [Stock Market Sentiment Analysis](https://github.com/Anant-Arora) | Analyzes real-time market sentiment using news and social media | Python, NLP, React, Express |
+| [CampusConnect](https://github.com/Anant-Arora/CampusConnect) | A campus networking platform where students can connect, collaborate, and share opportunities within their campus ecosystem | React, Node.js, Express |
+| [EKLAVYA](https://github.com/Anant-Arora) | A mentorship platform connecting students with mentors using intelligent query matching | Express.js, Firebase, AI |
+| [Apartment Rental Dashboard](https://github.com/Anant-Arora/Apartment-Rental-Dashboard) | Data analytics dashboard analyzing apartment rental trends, pricing insights, and housing market patterns | Power BI, Data Analytics |
 
 ---
 
